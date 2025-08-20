@@ -2,6 +2,8 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 # 📊 GitHub Stats:
+<h2>HI THERE MY NAME IS VISHNU IF YOU SEEING THIS PAGE I HOPE I WILL COMPLETE THIS PAGE ONE DAY.NOW AT A LERNING CURVE WHERE MANAGING WORK AN STUDY AT THE SAME TIME.I WILL ADD MY LINKED IS PROFILE HERE WHERE YOU CAN SEE MY WEEKING UPDATES OF MY FULL STACK JOURNEY DONT FORGET FOLLOW ME ON LINKEDIN </h2>
+<H1>LET CHANGE THE WORLD TOGHTER</H1>
 <div align="center">
 
   <!-- GitHub Stats -->
