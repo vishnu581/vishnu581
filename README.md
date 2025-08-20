@@ -7,12 +7,11 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=vishnu581&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
-  <br/><br/>
 
   <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=vishnu581&theme=dark&hide_border=false" />
 
-  <br/><br/>
+  
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu581&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
