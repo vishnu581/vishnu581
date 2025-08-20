@@ -9,7 +9,7 @@ Right now, I’m on an exciting **learning curve**, juggling both **corporate li
 
 This page is still a work in progress (like me 😅), but one day it will be something I’m truly proud of.  
 
-🔗 I’ll be adding my [LinkedIn profile](your-linkedin-here) here soon — where I share **weekly updates** on my full-stack journey.  
+🔗 I’ll be adding my [LinkedIn profile](https://www.linkedin.com/in/vishnu-venugopal-52289724a/) here soon — where I share **weekly updates** on my full-stack journey.  
 Don’t forget to follow along — let’s grow together 🌱  
 
 
